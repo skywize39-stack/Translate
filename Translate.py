@@ -19,4 +19,5 @@ while True:
         time.sleep(2)
         break
     else:
-        print("Your right action!")
+        print("You chose the wrong action!")
+
