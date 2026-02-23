@@ -15,9 +15,10 @@ while True:
         print(f"Your translated text -> {translat.translate(text)}")
         input("Press any key...")
     elif choose_action == "2":
-        print("Your action is Exit, Bye!")
-        time.sleep(2)
+        print("You chose to go out, Bye!")
+        time.sleep(1)
         break
     else:
         print("You chose the wrong action!")
+
 
